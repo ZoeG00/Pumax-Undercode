@@ -1,0 +1,11 @@
+# Certificados y claves privadas de AFIP / ARCA
+*.key
+*.crt
+*.pem
+*.csr
+*.pfx
+*.p12
+
+# No ignorar el .gitignore ni archivos de ejemplo
+!.gitignore
+!README.md
